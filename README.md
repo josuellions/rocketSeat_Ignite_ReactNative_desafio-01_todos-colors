@@ -3,7 +3,8 @@
 ## 💻 Projeto
 
 Adicionar novas tarefas (task), listar as tarefas, marcar tarefa, remover tarefa,
-validação para não permitir adicionar tarefas em branco.
+validação para não permitir adicionar tarefas em branco. Selecionar thema de cores
+entre Dark ou Light
 
 ## 🛠 Tecnologias
 
